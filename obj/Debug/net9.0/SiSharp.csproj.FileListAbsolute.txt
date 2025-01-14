@@ -1,0 +1,32 @@
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\bin\Debug\net9.0\SiSharp.exe
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\bin\Debug\net9.0\SiSharp.deps.json
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\bin\Debug\net9.0\SiSharp.runtimeconfig.json
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\bin\Debug\net9.0\SiSharp.dll
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\bin\Debug\net9.0\SiSharp.pdb
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\obj\Debug\net9.0\SiSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\obj\Debug\net9.0\SiSharp.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\obj\Debug\net9.0\SiSharp.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\obj\Debug\net9.0\SiSharp.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\obj\Debug\net9.0\SiSharp.dll
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\obj\Debug\net9.0\refint\SiSharp.dll
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\obj\Debug\net9.0\SiSharp.pdb
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\obj\Debug\net9.0\SiSharp.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Escritorio\si sharp\SiSharp\obj\Debug\net9.0\ref\SiSharp.dll
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\SiSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\SiSharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\SiSharp.AssemblyInfo.cs
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\SiSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\SiSharp.dll
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\refint\SiSharp.dll
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\SiSharp.pdb
+C:\Users\User\Desktop\SiSharp\bin\Debug\net9.0\SiSharp.exe
+C:\Users\User\Desktop\SiSharp\bin\Debug\net9.0\SiSharp.deps.json
+C:\Users\User\Desktop\SiSharp\bin\Debug\net9.0\SiSharp.runtimeconfig.json
+C:\Users\User\Desktop\SiSharp\bin\Debug\net9.0\SiSharp.dll
+C:\Users\User\Desktop\SiSharp\bin\Debug\net9.0\SiSharp.pdb
+C:\Users\User\Desktop\SiSharp\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\SiSharp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\SiSharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\SiSharp.csproj.Up2Date
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\SiSharp.genruntimeconfig.cache
+C:\Users\User\Desktop\SiSharp\obj\Debug\net9.0\ref\SiSharp.dll
