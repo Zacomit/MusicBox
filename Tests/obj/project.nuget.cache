@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5Q2ZntHQ59Z8eBVEaSIBzbPFWqaR7vFClK0ordCSb+JdpSfysFx3FGNXxRhJmr+i/2TWIzyDGEfPkHRagSxEw==",
+  "success": true,
+  "projectFilePath": "/home/julx/Documents/TEC/MusicBox/Tests/Tests.csproj",
+  "expectedPackageFiles": [
+    "/home/julx/.nuget/packages/system.windows.extensions/9.0.0/system.windows.extensions.9.0.0.nupkg.sha512",
+    "/home/julx/.nuget/packages/xunit/2.9.3/xunit.2.9.3.nupkg.sha512",
+    "/home/julx/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/home/julx/.nuget/packages/xunit.analyzers/1.18.0/xunit.analyzers.1.18.0.nupkg.sha512",
+    "/home/julx/.nuget/packages/xunit.assert/2.9.3/xunit.assert.2.9.3.nupkg.sha512",
+    "/home/julx/.nuget/packages/xunit.core/2.9.3/xunit.core.2.9.3.nupkg.sha512",
+    "/home/julx/.nuget/packages/xunit.extensibility.core/2.9.3/xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "/home/julx/.nuget/packages/xunit.extensibility.execution/2.9.3/xunit.extensibility.execution.2.9.3.nupkg.sha512",
+    "/home/julx/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
